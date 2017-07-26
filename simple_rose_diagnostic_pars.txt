@@ -1,0 +1,5 @@
+#Simple rose diagnostics param file
+suite_names=an561,an130
+rootdir=/group_workspaces/jasmin/ncas_cms/grenville/archive
+years=1978,1980
+stash_codes=m01s00i024,m01s05i216,m01s01i208,m01s03i332
